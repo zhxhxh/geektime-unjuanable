@@ -1,0 +1,10 @@
+# idea 生成的文件
+.idea
+*.iml
+
+# 编译后的文件
+target
+*.class
+
+# Log file
+*.log
